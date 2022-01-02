@@ -7,6 +7,13 @@
 - [Qiita@highcom](https://qiita.com/highcom)<br>
 - [Zenn@highcom](https://zenn.dev/highcom)<br>
 
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=highcom&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highcom&layout=compact" />
+</a>
+
 <!--
 **highcom/highcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
