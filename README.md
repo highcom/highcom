@@ -2,6 +2,7 @@
 
 開発環境がまだEclipseだった2012年くらいから、Androidアプリを中心に個人開発しています。<br>
 一時期SwiftでiOSアプリも開発していたので、そのソースコードもリポジトリを公開しています。<br>
+cocos-2dx、Unity、 Flutterなど色々なフレームワークをいじってみてはアプリとして公開しています。<br>
 技術ブログ記事投稿もしています。<br>
 - [アメブロ@趣味のアプリ開発ブログ](https://ameblo.jp/highcommunicate/)<br>
 - [Qiita@highcom](https://qiita.com/highcom)<br>
